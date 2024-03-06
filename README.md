@@ -1,5 +1,6 @@
 # Notes-Taking-app-Using-LAMP-stack
-Introduction
+<h4 styles="text-align:center">Home or LogIn Page</h4>
+## Introduction at the End :)
 NOTER(Notes Taking APP) is a project which aims at developing an online 
 application to promote Online Education, maintain Study Materials. Notes Making is 
 a Web Based Application which would assist students in carrying their notes 
