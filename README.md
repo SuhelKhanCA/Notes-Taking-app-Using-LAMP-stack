@@ -1,4 +1,4 @@
-<h1 align="center">Notes-Taking-app-Using-LAMP-stack</h1>
+![public notes](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/e4d27823-108f-4a1e-8a99-144ebdac673c)<h1 align="center">Notes-Taking-app-Using-LAMP-stack</h1>
 
 ## Introduction
 NOTER(Notes Taking APP) is a project which aims at developing an online 
@@ -45,7 +45,25 @@ the user in understanding the WebApp requirements better.
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 <h4 align ="center">Home/LogIn Page</h4>
+![index-LogIn page](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/bf43075a-5c53-4a35-861b-f141a60cc8d9)
 
+<h4 align ="center">Navigation</h4>
+![Nav](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/077717f3-d943-493d-8b83-d30874ca44d5)
+
+<h4 align ="center">How to Use</h4>
+![Motivation and How to use WebApp](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/1e6c6434-1c75-451d-85fc-0b4db75241fb)
+
+<h4 align ="center">Registration</h4>
+![Registration page](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/6ece8931-a94e-4248-af81-4a1c8f374b29)
+
+<h4 align ="center">Add Notes</h4>
+![Add notes](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/1073504f-dbe9-4cbd-ace5-b2919985601d)
+
+<h4 align ="center">Public Notes</h4>
+![public notes](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/62ed8d9e-dd9b-4922-bb07-9ffe00b0f163)
+
+<h4 align ="center">Your Notes</h4>
+![your notes](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/dd307414-5966-4626-8d8e-c43138212913)
 
 
 ### Let's Connect :
