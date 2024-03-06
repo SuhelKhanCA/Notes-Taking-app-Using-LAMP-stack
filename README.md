@@ -1,4 +1,4 @@
-![public notes](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/e4d27823-108f-4a1e-8a99-144ebdac673c)<h1 align="center">Notes-Taking-app-Using-LAMP-stack</h1>
+<h1 align="center">Notes-Taking-app-Using-LAMP-stack</h1>
 
 ## Introduction
 NOTER(Notes Taking APP) is a project which aims at developing an online 
