@@ -1,6 +1,3 @@
-<h1 align="center">Notes-Taking-app-Using-LAMP-stack</h1>
-![Motivation and How to use WebApp](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/29b3d0fb-4313-4391-aeff-a1111f9759d9)
-
 ## Introduction
 NOTER(Notes Taking APP) is a project which aims at developing an online 
 application to promote Online Education, maintain Study Materials. Notes Making is 
