@@ -51,10 +51,10 @@ the user in understanding the WebApp requirements better.
 
 
 
-<h4 align ="center">How to Use</h4>
+# Motivation/How to Use
 ![Motivation and How to use WebApp](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/1e6c6434-1c75-451d-85fc-0b4db75241fb)
 
-<h4 align ="center">Registration</h4>
+# Registration
 ![Registration page](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/6ece8931-a94e-4248-af81-4a1c8f374b29)
 
 <h4 align ="center">Add Notes</h4>
