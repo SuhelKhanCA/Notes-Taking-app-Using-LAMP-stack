@@ -43,7 +43,8 @@ the user in understanding the WebApp requirements better.
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 <h4 align ="center">Home/LogIn Page</h4>
-![index-LogIn page](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/469c7aba-6975-4bbb-9f9a-5560b560522e)
+(https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/894081c4-ddc5-4dfc-8f74-3332398278b5)
+
 
 
 <h4 align ="center">Navigation</h4>
