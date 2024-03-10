@@ -46,10 +46,10 @@ the user in understanding the WebApp requirements better.
 # Home-Page/LogIn
 ![Screenshot (18)](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/d862bcd6-26d3-441c-b175-355e36b69fba)
 
+# Navigation Bar
+![Nav](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/f4304756-de2e-4408-b771-f6bc9bb14e39)
 
 
-<h4 align ="center">Navigation</h4>
-![Nav](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/077717f3-d943-493d-8b83-d30874ca44d5)
 
 <h4 align ="center">How to Use</h4>
 ![Motivation and How to use WebApp](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/1e6c6434-1c75-451d-85fc-0b4db75241fb)
