@@ -57,13 +57,13 @@ the user in understanding the WebApp requirements better.
 # Registration
 ![Registration page](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/6ece8931-a94e-4248-af81-4a1c8f374b29)
 
-<h4 align ="center">Add Notes</h4>
+# Add Notes
 ![Add notes](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/1073504f-dbe9-4cbd-ace5-b2919985601d)
 
-<h4 align ="center">Public Notes</h4>
+# Public Notes
 ![public notes](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/62ed8d9e-dd9b-4922-bb07-9ffe00b0f163)
 
-<h4 align ="center">Your Notes</h4>
+# Your Notes
 ![your notes](https://github.com/SuhelKhanCA/Notes-Taking-app-Using-LAMP-stack/assets/112371384/dd307414-5966-4626-8d8e-c43138212913)
 
 
